@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivanshu Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/eefada90804e2564b4871e69fe1fb6c2f247f5821fc1be285fbf36abd0cb4c30/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3036663231613136313932313931392e363363643738383764306137302e676966">
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1rbDFiOWQ2cWU2NDhybm05Ym5kMjVsaXVtNHo5MDh2ajg3ZnNkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshumishra23&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshumishra23" /> </p>
 
